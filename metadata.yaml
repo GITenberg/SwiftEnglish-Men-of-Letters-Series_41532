@@ -1,0 +1,35 @@
+_repo: SwiftEnglish-Men-of-Letters-Series_41532
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41532-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stephen, Leslie
+    alias: Stephen, Sir Leslie
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '3802'
+    url: http://www.gutenberg.org/2009/agents/3802
+    wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
+description: 1. Early years; 2. Moor Park and Kilroot; 3. Early writings; 4. Laracor
+  and London; 5. The Harley administration; 6. Stella and Vanessa; 7. Wood's Halfpence;
+  8. Gulliver's Travels; 9. Decline
+gutenberg_issued: '2012-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41532'
+  lccn: '06025753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: English Men of Letters
+subjects:
+- !lcc 'PR'
+- !lcsh 'Satire, English -- Ireland -- History and criticism'
+- !lcsh 'Swift, Jonathan, 1667-1745'
+- !lcsh 'Authors, Irish -- 18th century -- Biography'
+- !lcsh 'Church of Ireland -- Clergy -- Biography'
+title: Swift
+url: http://www.gutenberg.org/ebooks/41532
